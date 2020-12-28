@@ -10,3 +10,24 @@ Update 2: Contact page integrated into About page and contents updated with new 
 - It got a link to my downloadable CV.
 
 
+
+## Technologies Used
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Git - Version control system to track changes to source code
+- GitHub - Hosts repository that can be deployed to GitHub Pages
+
+
+## Authors
+
+	. Babak Bigdeli
+
+* [Screenshot of Portfolio](https://github.com/Babakbigdeli/Portfolio/blob/main/Assets/ScreenShotAbout.JPG) & 
+(https://github.com/Babakbigdeli/Portfolio/blob/main/Assets/ScreenShotPortfolio.JPG)
+* [Link to deployed app](https://babakbigdeli.github.io/Portfolio/)
+
+**Babak Bigdeli**
+* [LinkedIn](https://www.linkedin.com/in/babak-bigdeli-3b999055)
+* [Link to Github](https://github.com/Babakbigdeli)
+* [Portfolio](https://babakbigdeli.github.io/Portfolio/)
