@@ -1,4 +1,4 @@
-# My Portfolio - bootstrap homework 
+# My Portfolio
 Update 2: Contact page integrated into About page and contents updated with new projects done.
 
 
